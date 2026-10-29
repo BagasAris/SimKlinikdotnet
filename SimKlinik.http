@@ -1,0 +1,6 @@
+@SimKlinik_HostAddress = http://localhost:5194
+
+GET {{SimKlinik_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
